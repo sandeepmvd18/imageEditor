@@ -33,9 +33,5 @@ This Python script processes images from a specified directory and converts them
 - `imgs/`: Directory containing input images.
 - `editedImgs/`: Directory where the edited images are saved.
 
-## Example
 
-Original Image             |  Black and White Image
-:-------------------------:|:-------------------------:
-![Original](imgs/example.jpg)  |  ![Black and White](editedImgs/example_bw.jpg)
 
